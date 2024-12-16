@@ -14,8 +14,8 @@ export default {
       },
       keyframes: {
         tickpulse: {
-          "0%": { transform: "scale(1)", opacity: 1 },
-          "100%": { transform: "scale(1.5)", opacity: 0 },
+          "0%": { transform: "scale(1)", opacity: "1" }, // Change opacity to string
+          "100%": { transform: "scale(1.5)", opacity: "0" }, // Change opacity to string
         },
       },
       colors: {
