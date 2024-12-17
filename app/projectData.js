@@ -11,6 +11,17 @@ export const projectData = [
   },
   {
     id: 2,
+    title: "Bond Clone Template | Kitpapa.com",
+    description:
+      "STAY SHARP. Nelson is the territory created purely for males who appreciate premium quality, time and flawless look",
+    imageSrc:
+      "https://res.cloudinary.com/djysyqqyx/image/upload/v1734440567/cozii/rs0xpka4kqv2ql0wtj1u.png",
+    badges: ["Elementor"],
+    githubLink: "",
+    projectLink: "",
+  },
+  {
+    id: 3,
     title: "Expense",
     description:
       "Master Your Finances: Track Every Expense and Budget with Ease! Take control of your financial future with our intuitive expense tracker and budgeting tool.",
