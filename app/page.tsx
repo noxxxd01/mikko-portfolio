@@ -259,7 +259,7 @@ export default function Home() {
         <div className="justify-between gap-4 py-4">
           <div>
             <h6 className="pb-3 text-sm text-neutral-500 dark:text-neutral-400">
-              July, 2024 - Present
+              October, 2024 - December, 2024
             </h6>
           </div>
           <div className="w-full">
