@@ -278,7 +278,10 @@ export default function Home() {
       <div className="pt-28">
         <div className="text-center flex flex-col justify-center gap-1.5 dark:text-neutral-400">
           <CardDescription>
-            <h6>© 2024 Made By Mikko</h6>
+            <h6>
+              © 2024 | Template inspired by Saud Alshehri & Praveen Shinde |
+              Designed By Mikko
+            </h6>
           </CardDescription>
           <CardDescription>
             <h6>All Rights Reserved</h6>
