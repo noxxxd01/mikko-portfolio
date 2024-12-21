@@ -280,7 +280,7 @@ export default function Home() {
           <CardDescription>
             <h6>
               © 2024 | Template inspired by Saud Alshehri & Praveen Shinde |
-              Designed By Mikko
+              Coded By Mikko
             </h6>
           </CardDescription>
           <CardDescription>
