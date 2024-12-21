@@ -12,7 +12,7 @@ import {
   CardFooter,
   CardHeader,
 } from "@/components/ui/card";
-import { ArrowUpRight, AtSign, Code, Images, Layers } from "lucide-react";
+import { ArrowUpRight, AtSign, Code, Layers } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { FaFacebookF, FaGithub, FaLinkedin } from "react-icons/fa";
@@ -271,19 +271,6 @@ export default function Home() {
               in plugin customization and API integrations.
             </p>
           </div>
-        </div>
-      </div>
-
-      {/* Gallery */}
-      <div>
-        <div className="flex items-center gap-2 pb-4  text-neutral-500 dark:text-neutral-400 text-sm">
-          <h1>GALLERY</h1>
-          <Images className="w-4 h-4" />
-        </div>
-        <div className="grid grid-cols-5 gap-2">
-          <div className="h-[190px] bg-neutral-500 rounded-md col-span-3 cursor-pointer"></div>
-          <div className="h-[190px] bg-neutral-500 rounded-md col-span-2 cursor-pointer"></div>
-          <div className="h-[230px] bg-neutral-500 rounded-md col-span-5 cursor-pointer"></div>
         </div>
       </div>
 
