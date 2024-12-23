@@ -12,7 +12,7 @@ import {
   CardFooter,
   CardHeader,
 } from "@/components/ui/card";
-import { ArrowUpRight, AtSign, Code, Layers } from "lucide-react";
+import { ArrowUpRight, AtSign, Award, Code, Layers } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { FaFacebookF, FaGithub, FaLinkedin } from "react-icons/fa";
@@ -256,7 +256,7 @@ export default function Home() {
         <h1 className="flex items-center text-sm gap-2 pb-4 text-neutral-500 dark:text-neutral-400">
           EXPERIENCE
         </h1>
-        <div className="justify-between gap-4 py-4">
+        <div className="justify-between gap-4 pb-4">
           <div>
             <h6 className="pb-3 text-sm text-neutral-500 dark:text-neutral-400">
               October, 2024 - December, 2024
@@ -271,6 +271,32 @@ export default function Home() {
               in plugin customization and API integrations.
             </p>
           </div>
+        </div>
+      </div>
+
+      {/* Certificates */}
+      <div>
+        <h1 className="flex items-center text-sm gap-2 pb-4 text-neutral-500 dark:text-neutral-400">
+          CERTIFICATES <Award className="w-4 h-4" />
+        </h1>
+        <div className="grid grid-cols-2 gap-2">
+          <Card>
+            <CardContent className="p-2">
+              <AspectRatio ratio={16 / 9}>
+                <Link
+                  href="https://res.cloudinary.com/djysyqqyx/image/upload/v1734942721/cozii/dtwm8nliwtpujirnwwe0.png"
+                  target="_blank"
+                >
+                  <Image
+                    src="https://res.cloudinary.com/djysyqqyx/image/upload/v1734942721/cozii/dtwm8nliwtpujirnwwe0.png"
+                    alt=""
+                    fill
+                    className="h-full w-full rounded-md object-cover"
+                  />
+                </Link>
+              </AspectRatio>
+            </CardContent>
+          </Card>
         </div>
       </div>
 
