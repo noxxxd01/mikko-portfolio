@@ -279,6 +279,10 @@ export default function Home() {
                   with API integrations, custom plugin development, and
                   adherence to SEO best practices.
                 </li>
+                <li>
+                  Enhanced website performance through WordPress optimization,
+                  achieving 30% faster load times.
+                </li>
               </ul>
             </p>
           </div>
