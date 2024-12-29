@@ -28,7 +28,7 @@ export default function Home() {
   )}&body=${encodeURIComponent(body)}`;
 
   return (
-    <main className="w-full md:w-[40rem] mx-auto py-16 md:py-24 md:px-8 px-4">
+    <main className="w-full md:w-[40rem] mx-auto py-16 md:py-24 md:px-8 px-4 ">
       {/* Profile image */}
       <div className="pb-12">
         <div className="flex flex-row justify-between items-center ">
