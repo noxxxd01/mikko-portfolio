@@ -265,10 +265,21 @@ export default function Home() {
           <div className="w-full">
             <h1>ArkDesign B.V. | Elementor Developer</h1>
             <p className="text-neutral-500 dark:text-neutral-400 pt-1">
-              Enhanced performance by optimizing Elementor sites, achieving a
-              30% faster load time, while ensuring scalability to support
-              100,000+ monthly users and maintainability through best practices
-              in plugin customization and API integrations.
+              <ul>
+                <li>
+                  Experienced in front-end customization, responsive design, and
+                  web performance optimization
+                </li>
+                <li>
+                  Collaborated with cross-functional teams (UI/UX Designers,
+                  Product Managers, QA) for delivering product updates.
+                </li>
+                <li>
+                  Ensured scalability for sites handling 100,000+ monthly users
+                  with API integrations, custom plugin development, and
+                  adherence to SEO best practices.
+                </li>
+              </ul>
             </p>
           </div>
         </div>
