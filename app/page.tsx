@@ -32,9 +32,9 @@ export default function Home() {
       {/* Profile image */}
       <div className="pb-12">
         <div className="flex flex-row justify-between items-center ">
-          <Avatar className="border-2 border-neutral-500">
+          <Avatar className="border-2 border-neutral-400">
             <AvatarImage
-              src="https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-1/356622500_1281214139421083_2424158620353500974_n.jpg?stp=c9.44.179.179a_dst-jpg_p200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeGdjTfOyLlpoVGds3Cbq4rL1kNW3KaTtgbWQ1bcppO2Bhw_yBmpisEJ0FytsLN1jLGpp_zjhTKf6tGafeK5wFNb&_nc_ohc=hp1qjCMQkj8Q7kNvgEZ_HJQ&_nc_zt=24&_nc_ht=scontent.fcgy2-1.fna&_nc_gid=ASix4WBSuwPNLRwmOSWWfY7&oh=00_AYBueuBg0-PDVsUhNmssxeJY_Hfkgure4Fb9iHvMx8ojOw&oe=6765EA1A"
+              src="https://res.cloudinary.com/djysyqqyx/image/upload/v1735432901/cozii/jsuitgeg3vnuml5pau8m.jpg"
               alt="@shadcn"
             />
             <AvatarFallback>CN</AvatarFallback>
@@ -265,7 +265,7 @@ export default function Home() {
           <div className="w-full">
             <h1>ArkDesign B.V. | Elementor Developer</h1>
             <p className="text-neutral-500 dark:text-neutral-400 pt-1">
-              <ul className="flex flex-col gap-2 list-disc">
+              <ul className="flex flex-col gap-2 list-disc pl-6">
                 <li>
                   Experienced in front-end customization, responsive design, and
                   web performance optimization
