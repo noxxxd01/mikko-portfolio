@@ -297,6 +297,23 @@ export default function Home() {
               </AspectRatio>
             </CardContent>
           </Card>
+          <Card>
+            <CardContent className="p-2">
+              <AspectRatio ratio={16 / 9}>
+                <Link
+                  href="https://learn.opswatacademy.com/certificate/oKOYtb1Waw"
+                  target="_blank"
+                >
+                  <Image
+                    src="https://res.cloudinary.com/djysyqqyx/image/upload/v1734942721/cozii/dtwm8nliwtpujirnwwe0.png"
+                    alt=""
+                    fill
+                    className="h-full w-full rounded-md object-cover"
+                  />
+                </Link>
+              </AspectRatio>
+            </CardContent>
+          </Card>
         </div>
       </div>
 
