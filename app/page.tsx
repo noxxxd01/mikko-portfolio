@@ -305,7 +305,7 @@ export default function Home() {
                   target="_blank"
                 >
                   <Image
-                    src="https://res.cloudinary.com/djysyqqyx/image/upload/v1734942721/cozii/dtwm8nliwtpujirnwwe0.png"
+                    src="https://res.cloudinary.com/djysyqqyx/image/upload/v1735432326/cozii/b8la5j8t95srbztc4z99.png"
                     alt=""
                     fill
                     className="h-full w-full rounded-md object-cover"
