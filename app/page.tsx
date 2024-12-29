@@ -265,7 +265,7 @@ export default function Home() {
           <div className="w-full">
             <h1>ArkDesign B.V. | Elementor Developer</h1>
             <p className="text-neutral-500 dark:text-neutral-400 pt-1">
-              <ul>
+              <ul className="flex flex-col gap-2 list-disc">
                 <li>
                   Experienced in front-end customization, responsive design, and
                   web performance optimization
