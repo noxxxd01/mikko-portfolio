@@ -18,7 +18,7 @@ export const projectData = [
       "https://res.cloudinary.com/djysyqqyx/image/upload/v1736212488/cozii/v1xspjnt0qoe1pobbdcw.png",
     imageLink:
       "https://res.cloudinary.com/djysyqqyx/image/upload/v1736212489/cozii/obucedh1yvipwvmvxil3.png",
-    badges: ["NextJS", "MongoDB", "TailwindCSS"],
+    badges: ["Next.js", "MongoDB", "TailwindCSS", "Auth.js"],
     githubLink: "https://github.com/noxxxd01/next_blog_app_01",
     projectLink: "https://bunbun.vercel.app/",
   },
