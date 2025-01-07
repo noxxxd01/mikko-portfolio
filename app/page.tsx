@@ -129,7 +129,7 @@ export default function Home() {
                       src={project.imageSrc}
                       alt={project.title}
                       fill
-                      className="h-full w-full rounded-md object-cover"
+                      className="h-full w-full rounded-md object-cover object-top"
                     />
                   </Link>
                 </AspectRatio>
