@@ -5,17 +5,19 @@ export const projectData = [
     description: "Blending Comfort With Responsible Living",
     imageSrc:
       "https://res.cloudinary.com/djysyqqyx/image/upload/v1734345957/cozii/fsxxzqza6hdxdd43axch.png",
+    imageLink: "",
     badges: ["Elementor"],
     githubLink: "",
     projectLink: "",
   },
   {
     id: 2,
-    title: "Bond Clone Template | Kitpapa.com",
-    description:
-      "STAY SHARP. Nelson is the territory created purely for males who appreciate premium quality, time and flawless look",
+    title: "BunBun",
+    description: "Discover Your Next Favorite Read Today!",
     imageSrc:
-      "https://res.cloudinary.com/djysyqqyx/image/upload/v1734440567/cozii/rs0xpka4kqv2ql0wtj1u.png",
+      "https://res.cloudinary.com/djysyqqyx/image/upload/v1736212488/cozii/v1xspjnt0qoe1pobbdcw.png",
+    imageLink:
+      "https://res.cloudinary.com/djysyqqyx/image/upload/v1736212489/cozii/obucedh1yvipwvmvxil3.png",
     badges: ["Elementor"],
     githubLink: "",
     projectLink: "",
@@ -27,6 +29,7 @@ export const projectData = [
       "Master Your Finances: Track Every Expense and Budget with Ease! Take control of your financial future with our intuitive expense tracker and budgeting tool.",
     imageSrc:
       "https://res.cloudinary.com/djysyqqyx/image/upload/v1734349837/cozii/nex61ltpklwapt7lsqa3.png",
+    imageLink: "",
     badges: ["MERN", "ShadCN", "Tailwind CSS"],
     githubLink: "https://github.com/noxxxd01/expense",
     projectLink: "https://expense-tracker-w0as.onrender.com/",

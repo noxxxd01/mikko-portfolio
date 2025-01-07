@@ -124,7 +124,7 @@ export default function Home() {
             >
               <CardHeader className="p-3">
                 <AspectRatio ratio={16 / 9}>
-                  <Link href={project.imageSrc} target="_blank">
+                  <Link href={project.imageLink} target="_blank">
                     <Image
                       src={project.imageSrc}
                       alt={project.title}
