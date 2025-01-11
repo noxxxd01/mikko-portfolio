@@ -38,7 +38,7 @@ export const projectData = [
     id: 4,
     title: "Chat App",
     description:
-      "Chat App build upon the MERN stack toppled with Socket.io for real-time responses.",
+      "Chat App built upon the MERN stack toppled with Socket.io for real-time responses.",
     imageSrc:
       "https://res.cloudinary.com/djysyqqyx/image/upload/v1736561954/cozii/jixzkev1tyd3iedcu9bh.png",
     imageLink:
