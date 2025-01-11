@@ -34,4 +34,17 @@ export const projectData = [
     githubLink: "https://github.com/noxxxd01/expense",
     projectLink: "https://expense-tracker-w0as.onrender.com/",
   },
+  {
+    id: 4,
+    title: "Chat App",
+    description:
+      "Chat App build upon the MERN stack toppled with Socket.io for real-time responses.",
+    imageSrc:
+      "https://res.cloudinary.com/djysyqqyx/image/upload/v1736561954/cozii/jixzkev1tyd3iedcu9bh.png",
+    imageLink:
+      "https://res.cloudinary.com/djysyqqyx/image/upload/v1736561954/cozii/jixzkev1tyd3iedcu9bh.png",
+    badges: ["MERN", "React", "Socket.io", "Vite", "Tailwind CSS"],
+    githubLink: "https://github.com/noxxxd01/chat_app_mern",
+    projectLink: "https://chat-app-mern-oaq7.onrender.com/",
+  },
 ];
